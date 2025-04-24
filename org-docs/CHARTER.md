@@ -121,7 +121,7 @@ Include and adhere to the Organization's policies, including the [trademark poli
 
 ## 10. Contribution Recognition and Authorship
 
-TBC - [See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
+TBC - [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
 
 ## 11. Amendments
 
