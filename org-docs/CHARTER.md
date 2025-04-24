@@ -37,7 +37,7 @@ The Organization is represented by its members, organized in the following bodie
 
 - Understand and agree with the code of conduct, the contributors guidelines, and the governance of the Organization, and promote them across the Organization
 - Understand the goals and priorities of the Organization and promote them
-- Be actively involved in a project
+- Be actively involved in a project [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
 - Be reachable [see 6.2] and attend steering committee meetings
 
 **3.3 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository. The Steering Committee will appoint a Community Manager responsible for organizing Steering Committee activity. The following seats are to be filled on the Steering Committee:
@@ -48,7 +48,7 @@ The Organization is represented by its members, organized in the following bodie
 - 1 member in a Learning Seat position, encouraged to shadow and support other representatives, particularly the Community Manager
 - 1 Community Manager, responsible for organizing Steering Committee activity and managing collaboration and communication between the Steering Committee and the community, whether that be active community members or wider stakeholders.
 
-**3.4 Term.** Each seat has a suggested term length of 1-3 years. Nomination to and ratification of Steering Committee membership shall proceed following the decision-making processes detailed in 3.5 & 3.6. 
+**3.4 Term.** Each seat has a suggested term length of 1-3 years. Nomination to and ratification of Steering Committee membership shall proceed following the decision-making processes detailed in 3.5 & 3.6. [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
 
 **3.5. Decision Making**. All decisions should involve the community at large whenever possible, with the Steering Committee ratifying the community decision. Through discussion and negotiation, the Steering Committee will strive for all its decisions to be made by consensus (everyone supports, or no individual strongly opposes, a course of action). While explicit agreement of the entire Steering Committee is preferred, it is not required. Rather, the Steering Committee will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Steering Committee, nature of support and objections, and their knowledge of community views. The Steering Committee will document evidence of consensus in accordance with these requirements. If a decision cannot be reached by this consensus method, a voting method can be used instead.
 
@@ -112,7 +112,7 @@ In order to be eligible to be an Organization project, a project must:
 - Be approved by the Steering Committee.
 - Agree to follow the guidance and direction of the Steering Committee.
 - Use only the following outbound licenses or agreements unless otherwise approved:
-    - For code, an Apache 2.0 (or later) licence. If this license does not seem fit for purpose for a specific project, maintainers can request a change with the Steering Committee. 
+    - For code, an Apache 2.0 (or later) licence. If this license does not seem fit for purpose for a specific project, maintainers can request a change with the Steering Committee. [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
     - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/), under the necessary privacy laws.
     - For documents, including community practices, a CC-BY-SA 4.0 (or later) licence.
     - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
@@ -121,7 +121,7 @@ Include and adhere to the Organization's policies, including the [trademark poli
 
 ## 10. Contribution Recognition and Authorship
 
-TBC
+TBC - [See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
 
 ## 11. Amendments
 
