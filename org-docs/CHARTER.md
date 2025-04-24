@@ -105,7 +105,7 @@ In all cases, attention should be paid to local and international privacy laws (
 
 Any other of the Organization's activities and materials, including but not limited to meeting minutes, Contributions, and conference submissions, is not confidential, regardless of any markings or statements to the contrary.
 
-## 8. Project Criteria
+## 9. Project Criteria
 
 In order to be eligible to be an Organization project, a project must:
 
