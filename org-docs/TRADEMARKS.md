@@ -42,3 +42,9 @@ You may use the word Marks, but not the Organization's logos, to truthfully desc
 * [Your software] for Mark software
 
 These guidelines are based on the [Model Trademark Guidelines](http://www.modeltrademarkguidelines.org), used under a [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/deed.en_US)
+
+[[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
+
+---
+
+Part of [MVG-0.1-beta](https://github.com/github/MVG/releases/tag/v0.1-beta). Made with love by GitHub. Licensed under the CC-BY 4.0 License.
