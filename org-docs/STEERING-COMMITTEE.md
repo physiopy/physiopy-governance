@@ -6,6 +6,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | --- | --- | --- |
 | [Steering Committee Member] | [handle ] | [affiliation] |
 |  Sarah Goodale | @goodalse2019 | Vanderbilt University |
+|  Rachael Stickland | @RayStick | University of Birmingham |
 
 ---
 Part of MVG-0.1-beta.
