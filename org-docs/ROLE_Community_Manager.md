@@ -10,7 +10,7 @@ Rachael Stickland and Mary Miedema
 
 ## Current role definition 
 
-Role definition co-designed by Mary and Rachael. The aspirational tasks (A) reflect interests/skills of Mary and Rachael so new community managers may want to edit/add. The essential tasks (E) are likely to be more consistent across community managers.
+Role definition co-designed by Mary and Rachael. The aspirational tasks (A) reflect interests/skills of Mary and Rachael so new community managers may want to edit/add these when they onboard. The essential tasks (E) are likely to be more consistent across community managers.
 
 It is important to note that other SC members (and community members where appropriate) can contribute to the tasks below - it is the community manager's role to try to see they get done and keep the community on track. 
 
@@ -31,9 +31,7 @@ It is important to note that other SC members (and community members where appro
 | Work with the documentation seat on the SC to ensure onboarding to the community and its platforms (e.g. GitHub, Slack) are automated as much as possible, and accessible for diverse contributors and users | A | Rachael |
 | Initiate the organizing of community events such as hackathons | A | Mary |
 
----
-
-Resources:
+## Resources
 
 - https://book.the-turing-way.org/collaboration/research-infrastructure-roles/community-manager/
 - https://www.cscce.org
