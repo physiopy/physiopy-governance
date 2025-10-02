@@ -1,4 +1,4 @@
-# Steering Committee Role: Community Manager
+# Community Manager
 
 The Community Manager is one of the Steering Committee (SC) positions. 
 
