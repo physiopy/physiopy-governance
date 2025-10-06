@@ -8,6 +8,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 |  Sarah Goodale | @goodalse2019 | Vanderbilt University |
 |  Rachael Stickland | @RayStick | University of Birmingham |
 | Stefano Moia | @smoia | Maastricht University |
+| Mary Miedema | @m-miedema | McGill University |
 ---
 Part of MVG-0.1-beta.
 Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
