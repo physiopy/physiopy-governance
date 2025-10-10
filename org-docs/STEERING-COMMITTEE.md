@@ -5,10 +5,14 @@ This document lists the members of the Organization's Steering Committee. Voting
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
 | [Steering Committee Member] | [handle ] | [affiliation] |
-|  Sarah Goodale | @goodalse2019 | Vanderbilt University |
-|  Rachael Stickland | @RayStick | University of Birmingham |
+| Sarah Goodale | @goodalse2019 | Vanderbilt University |
+| Rachael Stickland | @RayStick | University of Birmingham |
 | Stefano Moia | @smoia | Maastricht University |
 | Mary Miedema | @m-miedema | McGill University |
+
+Specific roles on the Steering Committee have been defined:
+- [Community Manager](ROLE-Community-Manager.md)
+
 ---
 Part of MVG-0.1-beta.
 Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
