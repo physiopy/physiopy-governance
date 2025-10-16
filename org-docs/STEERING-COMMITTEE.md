@@ -5,11 +5,11 @@ This document lists the members of the Organization's Steering Committee. Voting
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
 | [Steering Committee Member] | [handle ] | [affiliation] |
-| Sarah Goodale | @goodalse2019 | Vanderbilt University |
-| Rachael Stickland | @RayStick | University of Birmingham |
-| Stefano Moia | @smoia | Maastricht University |
-| Mary Miedema | @m-miedema | McGill University |
 | César Caballero Gaudes | @CesarCaballeroGaudes | Basque Center on Cognition, Brain & Language |
+| Sarah Goodale | @goodalse2019 | Vanderbilt University |
+| Mary Miedema | @m-miedema | McGill University |
+| Stefano Moia | @smoia | Maastricht University |
+| Rachael Stickland | @RayStick | University of Birmingham |
 
 Specific roles on the Steering Committee have been defined:
 - [Community Manager](ROLE-Community-Manager.md)
