@@ -7,7 +7,10 @@ By adding your name to this list you are agreeing to abide by all Organization p
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
 | [Advisory Council Member] | [handle ] | [affiliation] |
-|  ... | ... | ... |
+|  Molly Bright | @BrightMG | Northwestern University |
+|  Catie Chang |  | Vanderbilt University  |
+|  Ian Driver |  | Cardiff University  |
+|  Joana Pinto |  | Siemens Healthineers  |
 
 ---
 Part of MVG-0.1-beta.
