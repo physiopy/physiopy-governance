@@ -1,10 +1,12 @@
 # Advisory Council
 
-This document lists the members of the Organization's Advisory Council. Voting members may be added once approved by the Steering Committee as described in the [charter](./CHARTER.md). By adding your name to this list you are agreeing to abide by all Organization polices, including the [charter](./CHARTER.md), the [code of conduct](./CODE-OF-CONDUCT.md) and the [trademark policy](./TRADEMARKS.md). If you are serving on the Steering Committee because of your affiliation with another organization (designated below), you represent that you have authority to bind that organization to these policies.
+This document lists the members of the Organization's Advisory Council. The Steering Committee is in charge of nominating new Advisory Council members as described in the [charter](./CHARTER.md). 
+
+By adding your name to this list you are agreeing to abide by all Organization polices, including the [charter](./CHARTER.md), the [code of conduct](./CODE-OF-CONDUCT.md) and the [trademark policy](./TRADEMARKS.md). 
 
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
-| [Steering Committee Member] | [handle ] | [affiliation] |
+| [Advisory Council Member] | [handle ] | [affiliation] |
 |  ... | ... | ... |
 
 ---
