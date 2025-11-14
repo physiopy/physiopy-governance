@@ -1,6 +1,6 @@
 # Advisory Council
 
-This document lists the members of the Organization's Advisory Council. The Steering Committee is in charge of nominating new Advisory Council members as described in the [charter](./CHARTER.md). 
+This document lists the members of the Organization's Advisory Council. The [Steering Committee](./STEERING-COMMITTEE.md) is in charge of nominating new Advisory Council members as described in the [charter](./CHARTER.md). 
 
 By adding your name to this list you are agreeing to abide by all Organization polices, including the [charter](./CHARTER.md), the [code of conduct](./CODE-OF-CONDUCT.md) and the [trademark policy](./TRADEMARKS.md). 
 
