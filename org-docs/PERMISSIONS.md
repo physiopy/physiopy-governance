@@ -39,5 +39,5 @@ The below rules should be implemented via the 'Collaborators and teams' option o
 - Each Physiopy repository should be associated with a [Team](https://github.com/orgs/physiopy/teams) or Child Team.
    - This Team/Child Team assigns the base role for a user contributing to this repository.
    - There should be a maintainer of this Team/Child Team.
-- *Team doesn't give a specific user enough privileges?* Elevated roles, for this repository only, can be given to specific users. If this case happens a lot, considering increasing the Team access privileges. 
-- *Team gives a specific user too many privileges?* Do not add them to the team, but add them separately to the repository with the desired access role. This may be suitable for an outside collaborator that is working on this project for a specific window of time or a narrowly defined task.  
+- *Team doesn't give a specific user enough privileges?* Elevated roles, for this repository only, can be given to specific users. If this case happens regularly, consider increasing the Team access privileges instead. 
+- *Team gives a specific user too many privileges?* Do not add them to the team, but add them separately to the repository with the desired access role. This may be suitable for an outside collaborator that is working on this project for a specific window of time or a narrowly defined task. If this case happens regularly, consider decreasing the Team access privileges instead.    
