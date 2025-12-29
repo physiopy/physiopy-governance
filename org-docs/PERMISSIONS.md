@@ -1,6 +1,6 @@
 # GitHub Roles and Permissions for Physiopy
 
-This document describes Physiopy's use of different role assignments which define what permissions users have within the organization. It is the responsibility of the Steering Committee (particularly the Community Manager(s)) to implemented these rules, and periodically check they are up to date. 
+This document describes Physiopy's use of different role assignments which define what permissions users have within the organization. It is the responsibility of the Steering Committee (particularly the Community Manager(s)) to implement these rules, and periodically check if they are up to date. 
 
 We are aiming for a simple approach to begin with. Please reflect before adding further complexity to role assignments. 
 
