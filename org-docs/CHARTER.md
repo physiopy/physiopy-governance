@@ -112,8 +112,8 @@ In order to be eligible to be an Organization project, a project must:
 
 - Be approved by the Steering Committee.
 - Agree to follow the guidance and direction of the Steering Committee.
-- Use only the following outbound licenses or agreements unless otherwise approved:
-    - For code, an Apache 2.0 (or later) licence. If this license does not seem fit for purpose for a specific project, maintainers can request a change with the Steering Committee. [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
+- Use only the following outbound licenses or agreements (or maintainers of the project can request a different license, to be approved by the Steering Committe):
+    - For code, an Apache 2.0 (or later) licence.
     - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/), under the necessary privacy laws.
     - For documents, including community practices, a CC-BY-SA 4.0 (or later) licence.
     - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
