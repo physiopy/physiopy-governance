@@ -37,7 +37,8 @@ The Organization is represented by its members, organized in the following bodie
 
 - Understand and agree with the code of conduct, the contributors guidelines, and the governance of the Organization, and promote them across the Organization
 - Understand the goals and priorities of the Organization and promote them
-- Be actively involved in a project [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
+- Be actively involved in a project
+     - Actively involved will require attending the majority of project meetings within a given year (and engaging with project discussions e.g. on GitHub, slack, email) and having evidence of a contribution towards one more more of these tasks - (i) code, (ii) documentation, (iii) dissemination and (iv) planning/strategy. Frequency of involvement is project specific.  
 - Be reachable [see 6.2] and attend steering committee meetings
 
 **3.3 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository. The Steering Committee will appoint a Community Manager responsible for organizing Steering Committee activity. The following seats are to be filled on the Steering Committee:
