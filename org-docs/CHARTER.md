@@ -123,7 +123,13 @@ Include and adhere to the Organization's policies, including the [trademark poli
 
 ## 10. Contribution Recognition and Authorship
 
-TBC - [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
+### Repository contributions
+
+Physiopy uses the [all-contributors specification](https://allcontributors.org/overview/) to capture diverse contributions. For each repository on Github, a current list of contributors should be stored in the `.all-contributorsrc` file and displayed in a table in the root README. A type of contribution is reflected by its corresponding [emoji key](https://allcontributors.org/emoji-key/). The steering committee, and any project leads, will periodically check these contributor summaries for accuracy and also encourage each contributor to ensure their contributions are recognized appropriately (for each project repository and on website pages that summarize contributions across the organization).  
+
+### Other pathways for recognition
+
+Physiopy will submit publications in various forms, such as posters, talks, pre-prints, journal submissions. In these cases, Physiopy will extend authorship to all those involved in the relevant development activity during the corresponding time frame. By default, authorship on these publications will be listed in alphabetical order. It is acceptable for anyone in this list of authors to suggest that certain authors be first or last due to their specific contributions; for this to be approved a consensus must be reached (everyone supports, or no individual strongly opposes). If a consensus cannot be reached, the steering committee will vote as per section 3.6. 
 
 ## 11. Amendments
 
