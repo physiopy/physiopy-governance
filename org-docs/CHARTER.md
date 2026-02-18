@@ -4,7 +4,11 @@ This is the organizational charter for the *physiopy* Organization (the "Organiz
 
 ## 1. Mission
 
-The Organization has five aims:
+Overall aim:
+
+**Physiopy’s aim is to improve the quality of physiological data collection and application in neuroimaging research through community discussion and open source tool development.**
+
+Specific aims: 
 
 1. Raise awareness of best practices for physiological data collection and analysis in neuroimaging.
 2. Create, maintain, and share toolboxes and documentation following open science and open-source software best practices in support of the collection, usage, and sharing of physiological data.
