@@ -2,8 +2,9 @@
 name: General issue
 about: Use this template for any issues related to the governance repo
 title: ''
-labels:
+labels: ''
 assignees: ''
+
 ---
 
 <!--- Provide a general summary of the issue in the Title above -->
@@ -25,4 +26,3 @@ e.g. Steering Committee, Advisory Council, Community, Other
 <!--- With the governance docs in mind: -->
 <!--- Ask yourself, who needs to be involved in making this change? -->
 <!--- Ask yourself, who needs to be involved in approving this change? -->
-
