@@ -8,7 +8,7 @@ We are aiming for a simple approach to begin with. Please reflect before adding 
 
 The below rules should be implemented via the 'Role assignment' option on the organization settings page. Add a [team of users](https://github.com/orgs/physiopy/teams), or an individual user, to a specific role. 
 
-<img src="pictures/role_assignment.png" alt="Image showing GitHub page where you set the role assignments" width="500">
+<img src="../pictures/role_assignment.png" alt="Image showing GitHub page where you set the role assignments" width="500">
 
 ### Organization Owners or Maintainers 
 
@@ -28,7 +28,7 @@ The below rules should be implemented via the 'Role assignment' option on the or
 
 The below rules should be implemented via the 'Collaborators and teams' option on the repository settings page. Add a [team of users](https://github.com/orgs/physiopy/teams), or an individual user, to a specific role. 
 
-<img src="pictures/role_assignment_repo.png" alt="Image showing GitHub page where you set the role assignments" width="350">
+<img src="../pictures/role_assignment_repo.png" alt="Image showing GitHub page where you set the role assignments" width="350">
 
 **Must**
 - Each Physiopy repository should have a user assigned to Maintain it (this user should have **Maintainer** privileges, or above, on this repository)
