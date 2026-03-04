@@ -18,4 +18,3 @@ At the organizational level, we have [steering committee members](org-docs/STEER
 ## Project governance 
 
  The folder [project-docs](project-docs) provides a template for individual project governance, subject to the policies and oversight of the larger organization. The MVG suggests to use these as templates for each Physiopy 'project' (probably a repository, but could be a collection of repositories). **This project governance implementation is a work in progress.**
-
