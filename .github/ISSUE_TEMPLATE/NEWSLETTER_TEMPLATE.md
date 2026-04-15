@@ -7,7 +7,6 @@ assignees: 'm-miedema'
 ---
 
 <!--- Provide an aspirational release date for the newsletter issue in the Title above -->
-<!--- Please label the issue with one any of relevant labels -->
 
 ## Content to include
 <!--- Add a checkbox for each newsletter section -->
@@ -22,6 +21,8 @@ assignees: 'm-miedema'
 - [ ] Events have a meeting link
 - [ ] Events are updated with the above links and description on Physiopy's Google calendar
 - [ ] Events have a meeting agenda link, if necessary
+
+<!--- Please add checklists and sections for other content as necessary -->
 
 ## Additional promotion?
 <!--- If relevant, consider whether content within this issue of the newsletter should be additionally promoted by members or collaborators of Physiopy  -->
