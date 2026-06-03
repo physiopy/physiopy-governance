@@ -41,7 +41,7 @@ The Organization is represented by its members, organized in the following bodie
 
 - Understand and agree with the code of conduct, the contributors guidelines, and the governance of the Organization, and promote them across the Organization
 - Understand the goals and priorities of the Organization and promote them
-- Be actively involved in a project
+- Be actively involved in a project, that is aiming to:
      - Attending the majority of project meetings within a given year (and engaging with project discussions e.g. on GitHub, slack, email)
      - Evidence of a contribution towards one or more of these tasks in a given year - (i) code or code review (ii) documentation, (iii) dissemination and (iv) planning/strategy. 
 - Be reachable [see 6.2] and attend steering committee meetings
