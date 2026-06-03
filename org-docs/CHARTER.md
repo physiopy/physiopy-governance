@@ -131,7 +131,7 @@ Include and adhere to the Organization's policies, including the [trademark poli
 
 Physiopy uses the [all-contributors specification](https://allcontributors.org/overview/) to capture diverse contributions. For each repository on Github, a current list of contributors should be stored in the `.all-contributorsrc` file and displayed in a table in the root README. A type of contribution is reflected by its corresponding [emoji key](https://allcontributors.org/emoji-key/). The steering committee, and any project leads, will periodically check these contributor summaries for accuracy and also encourage each contributor to ensure their contributions are recognized appropriately (for each project repository and on website pages that summarize contributions across the organization).  
 
-### Other pathways for recognition
+### Authorship on deliverables
 
 Any deliverable that physiopy releases (e.g. software, online documentation, posters, scientific manuscript, ...) will have authorship reflecting all contributions to the deliverable itself, i.e. all those involved in the relevant development activity during the corresponding time frame. 
 
