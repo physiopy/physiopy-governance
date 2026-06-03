@@ -133,7 +133,18 @@ Physiopy uses the [all-contributors specification](https://allcontributors.org/o
 
 ### Other pathways for recognition
 
-Physiopy will submit publications in various forms, such as posters, talks, pre-prints, journal submissions. In these cases, Physiopy will extend authorship to all those involved in the relevant development activity during the corresponding time frame. By default, authorship on these publications will be listed in alphabetical order. It is acceptable for anyone in this list of authors to suggest that certain authors be first or last due to their specific contributions; for this to be approved a consensus must be reached (everyone supports, or no individual strongly opposes). If a consensus cannot be reached, the steering committee will vote as per section 3.6. 
+Any deliverable that physiopy releases (e.g. software, online documentation, posters, scientific manuscript, ...) will have authorship reflecting all contributions to the deliverable itself, i.e. all those involved in the relevant development activity during the corresponding time frame. 
+
+By default, authorship on these publications will be listed in alphabetical order.
+
+It is acceptable to deviate from this order and suggest that certain authors be first or last due to their specific contributions; in this case a consensus must be reached (everyone supports, or no individual strongly opposes) as early in the project life as possible, and can be re-discussed at any point in versioned deliverables (e.g. software). If a consensus cannot be reached, the steering committee will vote as per section 3.6.
+When possible, projects that do not default to alphabetical authorship should document authorship rules publicly. 
+
+We generally suggest that the 2-3 people taking the lead on a project are listed first (as co-authors or in the order they prefer), and that particular contributions that reflects senior contributions (e.g. general organisation, financial arrangements, etc.) are listed last.
+
+When possible, the list of authors should always end with a "consortia-like" authorship reflecting the community, that is "_The Physiopy Community_".
+
+We recommend for all contributions to be reported, independently of current active status of involved contributors. However, consent of individual authors must be guaranteed at all times.
 
 ## 11. Amendments
 
