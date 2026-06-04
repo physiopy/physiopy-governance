@@ -2,7 +2,7 @@
 
 The first governance was set up for the Physiopy community in 2025. 
 
-This document is meant to help us not loose track of fundamental principles that the charter authors deemed important but didn't make it in the text due to the status of the community at the time of writing.
+This document is meant to help us not lose track of fundamental principles that the charter authors deemed important but didn't make it in the text due to the status of the community at the time of writing.
 
 - Steering committee roles should rotate after a defined amount of time, with a matching time of embargo post-role
   - We did not include this principle due to the small size of the community
