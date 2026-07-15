@@ -1,3 +1,5 @@
+[TEMPLATE FILE ONLY]
+
 MIT License
 
 Copyright (c) [FIXME PROJECT] Contributors

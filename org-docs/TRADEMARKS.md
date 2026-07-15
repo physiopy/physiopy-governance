@@ -1,16 +1,16 @@
 ## Introduction
 
-This is the Organization's policy for the use of our trademarks. While our work is available under free and open source software licenses, those licenses do not include a license to use our trademarks.
+This is Physiopy's policy for the use of our trademarks. While our work is available under free and open source software licenses, those licenses do not include a license to use our trademarks.
 
-This policy describes how you may use our trademarks.  Our goal is to strike a balance between: 1) our need to ensure that our trademarks remain reliable indicators of the quality software we release; and 2) our community members' desire to be full participants in our Organization.
+This policy describes how you may use our trademarks. Our goal is to strike a balance between: 1) our need to ensure that our trademarks remain reliable indicators of the quality software we release; and 2) our community members' desire to be full participants in the Physiopy organization.
 
 ## Our Trademarks
 
-This policy covers the name of the Organization and each of the Organization's projects, as well as any associated names, trademarks, service marks, logos, mascots, or similar indicators of source or origin (our "Marks").
+This policy covers the name of the organization (Physiopy) and the name of each of Physiopy's projects, as well as any associated names, trademarks, service marks, logos, mascots, or similar indicators of source or origin (our "Marks").
 
 ## In General
 
-Whenever you use our Marks, you must always do so in a way that does not mislead anyone about exactly who is the source of the software. For example, you cannot say you are distributing the "Mark" software when you're distributing a modified version of it because people will believe they are getting the same software that they can get directly from us when they aren't. You also cannot use our Marks on your website in a way that suggests that your website is an official Organization website or that we endorse your website. But, if true, you can say you like the "Mark" software, that you participate in the "Mark" community, that you are providing an unmodified version of the "Mark" software, or that you wrote a book describing how to use the "Mark" software.
+Whenever you use our "Marks", you must always do so in a way that does not mislead anyone about exactly who is the source of the software. For example, you cannot say you are distributing the "Mark" software when you're distributing a modified version of it because people will believe they are getting the same software that they can get directly from us when they aren't. You also cannot use our Marks on your website in a way that suggests that your website is an official Physiopy website or that we endorse your website. But, if true, you can say you like the "Mark" software, that you participate in the "Mark" community, that you are providing an unmodified version of the "Mark" software, or that you wrote a book describing how to use the "Mark" software.
 
 This fundamental requirement, that it is always clear to people what they are getting and from whom, is reflected throughout this policy. It should also serve as your guide if you are not sure about how you are using the Marks.
 
@@ -25,7 +25,7 @@ When you redistribute an unmodified copy of our software, you are not changing t
 
 ## Distribution of executable code that you have compiled, or modified code
 
-You may use any word marks, but not any Organization logos, to truthfully describe the origin of the software that you are providing, that is, that the code you are distributing is a modification of our software. You may say, for example, that "this software is derived from the source code for 'Mark' software."
+You may use any word marks, but not any Physiopy logos, to truthfully describe the origin of the software that you are providing, that is, that the code you are distributing is a modification of our software. You may say, for example, that "this software is derived from the source code for 'Mark' software."
 
 Of course, you can place your own trademarks or logos on versions of the software to which you have made substantive modifications, because by modifying the software, you have become the origin of that exact version. In that case, you should not use our Marks.
 
@@ -33,7 +33,7 @@ However, you may use our Marks for the distribution of code (source or executabl
 
 ## Statements about your software's relation to our software
 
-You may use the word Marks, but not the Organization's logos, to truthfully describe the relationship between your software and ours. Our Mark should be used after a verb or preposition that describes the relationship between your software and ours. So you may say, for example, "Bob's software for the 'Mark' platform" but may not say "Bob's 'Mark' software." Some other examples that may work for you are:
+You may use the word Marks, but not Physiopy's logos, to truthfully describe the relationship between your software and ours. Our Mark should be used after a verb or preposition that describes the relationship between your software and ours. So you may say, for example, "Bob's software for the 'Mark' platform" but may not say "Bob's 'Mark' software." Some other examples that may work for you are:
 
 * [Your software] uses "Mark" software
 * [Your software] is powered by "Mark" software
@@ -42,8 +42,6 @@ You may use the word Marks, but not the Organization's logos, to truthfully desc
 * [Your software] for Mark software
 
 These guidelines are based on the [Model Trademark Guidelines](http://www.modeltrademarkguidelines.org), used under a [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/deed.en_US)
-
-[[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
 
 ---
 

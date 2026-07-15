@@ -4,7 +4,11 @@ This is the organizational charter for the *physiopy* Organization (the "Organiz
 
 ## 1. Mission
 
-The Organization has five aims:
+Overall aim:
+
+**Physiopy’s aim is to improve the quality of physiological data collection and application in neuroimaging research through community discussion and open source tool development.**
+
+Specific aims: 
 
 1. Raise awareness of best practices for physiological data collection and analysis in neuroimaging.
 2. Create, maintain, and share toolboxes and documentation following open science and open-source software best practices in support of the collection, usage, and sharing of physiological data.
@@ -37,7 +41,9 @@ The Organization is represented by its members, organized in the following bodie
 
 - Understand and agree with the code of conduct, the contributors guidelines, and the governance of the Organization, and promote them across the Organization
 - Understand the goals and priorities of the Organization and promote them
-- Be actively involved in a project [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
+- Be actively involved in a project, that is aiming to:
+     - Attending the majority of project meetings within a given year (and engaging with project discussions e.g. on GitHub, slack, email)
+     - Evidence of a contribution towards one or more of these tasks in a given year - (i) code or code review (ii) documentation, (iii) dissemination and (iv) planning/strategy. 
 - Be reachable [see 6.2] and attend steering committee meetings
 
 **3.3 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository. The Steering Committee will appoint a Community Manager responsible for organizing Steering Committee activity. The following seats are to be filled on the Steering Committee:
@@ -48,7 +54,7 @@ The Organization is represented by its members, organized in the following bodie
 - 1 member in a Learning Seat position, encouraged to shadow and support other representatives, particularly the Community Manager
 - 1 Community Manager, responsible for organizing Steering Committee activity and managing collaboration and communication between the Steering Committee and the community, whether that be active community members or wider stakeholders.
 
-**3.4 Term.** Each seat has a suggested term length of 1-3 years. Nomination to and ratification of Steering Committee membership shall proceed following the decision-making processes detailed in 3.5 & 3.6. [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
+**3.4 Term.** Each seat has a suggested term length of 1-3 years. Nomination to and ratification of Steering Committee membership shall proceed following the decision-making processes detailed in 3.5 & 3.6.
 
 **3.5. Decision Making**. All decisions should involve the community at large whenever possible, with the Steering Committee ratifying the community decision. Through discussion and negotiation, the Steering Committee will strive for all its decisions to be made by consensus (everyone supports, or no individual strongly opposes, a course of action). While explicit agreement of the entire Steering Committee is preferred, it is not required. Rather, the Steering Committee will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Steering Committee, nature of support and objections, and their knowledge of community views. The Steering Committee will document evidence of consensus in accordance with these requirements. If a decision cannot be reached by this consensus method, a voting method can be used instead.
 
@@ -111,17 +117,31 @@ In order to be eligible to be an Organization project, a project must:
 
 - Be approved by the Steering Committee.
 - Agree to follow the guidance and direction of the Steering Committee.
-- Use only the following outbound licenses or agreements unless otherwise approved:
-    - For code, an Apache 2.0 (or later) licence. If this license does not seem fit for purpose for a specific project, maintainers can request a change with the Steering Committee. [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
+- Use only the following outbound licenses or agreements (or maintainers of the project can request a different license, to be approved by the Steering Committe):
+    - For code, an Apache 2.0 (or later) license.
     - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/), under the necessary privacy laws.
-    - For documents, including community practices, a CC-BY-SA 4.0 (or later) licence.
+    - For documents, including community practices, a CC-BY-SA 4.0 (or later) license.
     - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
 
 Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md) and the [code of conduct](./CODE-OF-CONDUCT.md).
 
 ## 10. Contribution Recognition and Authorship
 
-TBC - [[See tasks for first SC](https://github.com/physiopy/physiopy-governance/issues/3)]
+### Repository contributions
+
+Physiopy uses the [all-contributors specification](https://allcontributors.org/overview/) to capture diverse contributions. For each repository on Github, a current list of contributors should be stored in the `.all-contributorsrc` file and displayed in a table in the root README. A type of contribution is reflected by its corresponding [emoji key](https://allcontributors.org/emoji-key/). The steering committee, and any project leads, will periodically check these contributor summaries for accuracy and also encourage each contributor to ensure their contributions are recognized appropriately (for each project repository and on website pages that summarize contributions across the organization).  
+
+### Authorship on deliverables
+
+Any deliverable that physiopy releases (e.g. software, online documentation, posters, scientific manuscript, ...) will have authorship reflecting all contributions to the deliverable itself, i.e. all those involved in the relevant development activity during the corresponding time frame. We recommend for all contributions to be reported, independently of current active status of involved contributors. However, consent of individual authors must be guaranteed at all times.
+
+By default, authorship on these publications will be listed in alphabetical order.
+
+It is acceptable to deviate from this order and suggest that certain authors be first or last due to their specific contributions; in this case a consensus must be reached (everyone supports, or no individual strongly opposes) as early in the project life as possible, and can be re-discussed at any point in versioned deliverables (e.g. software). If a consensus cannot be reached, the steering committee will vote as per section 3.6.
++ When possible, projects that do not default to alphabetical authorship should document authorship rules publicly. 
++ We generally suggest that the 2-3 people taking the lead on a project are listed first (as co-authors or in the order they prefer), and that particular contributions that reflects senior contributions (e.g. general organisation, financial arrangements, etc.) are listed last.
+
+When possible, the list of authors should always end with a "consortia-like" authorship reflecting the community, that is "_The Physiopy Community_".
 
 ## 11. Amendments
 
