@@ -118,9 +118,9 @@ In order to be eligible to be an Organization project, a project must:
 - Be approved by the Steering Committee.
 - Agree to follow the guidance and direction of the Steering Committee.
 - Use only the following outbound licenses or agreements (or maintainers of the project can request a different license, to be approved by the Steering Committe):
-    - For code, an Apache 2.0 (or later) licence.
+    - For code, an Apache 2.0 (or later) license.
     - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/), under the necessary privacy laws.
-    - For documents, including community practices, a CC-BY-SA 4.0 (or later) licence.
+    - For documents, including community practices, a CC-BY-SA 4.0 (or later) license.
     - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
 
 Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md) and the [code of conduct](./CODE-OF-CONDUCT.md).
