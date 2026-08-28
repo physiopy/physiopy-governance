@@ -1,6 +1,20 @@
-<img src="pictures/phys2bids_logo2_1280×640.png" width="400">
+# Physiopy Community Management
 
-# Physiopy Governance 
+Welcome to Physiopy's Community Management repository! 
+
+NICE PICTURE HERE
+
+Are you here to contribute to an upcoming Newsletter?  INSTRUCTIONS HERE 
+
+Are you here to contribute to a discussion topic?  INSTRUCTIONS HERE 
+
+Are you here to understand (or contribute to) Physiopy's governance procedures? *Read below.*
+
+---
+
+<img src="pictures/phys2bids_logo2_1280×640.png" width="200">
+
+## Physiopy Governance 
 
 Physiopy's governance documents are based on GitHub's Minimum Viable Governance (MVP), which you can read more about here https://github.com/github/MVG. In brief, MVP is
 
@@ -8,13 +22,13 @@ Physiopy's governance documents are based on GitHub's Minimum Viable Governance 
 
 It is a two-tier structure with [organizational governance](org-docs) and [project governance](project-docs), explained below.
 
-## Organizational governance
+### Organizational governance
 
 At the organizational level, we have [steering committee members](org-docs/STEERING-COMMITTEE.md) and [advisory council members](org-docs/ADVISORY-COUNCIL.md). The roles of the steering committee and the advisory council are explained in the organization's [Charter](org-docs/CHARTER.md). This [Charter](org-docs/CHARTER.md) covers the organization mission, bodies (steering committee, advisory council, community members), decision making process, violations of governance terms, trademarks, confidentiality, project criteria, and contribution recognition/authorship. At the organizational level we also have the: 
 - [Code of conduct](org-docs/CODE-OF-CONDUCT.md)
 - [GitHub Roles and Permissions for Physiopy](org-docs/PERMISSIONS.md)
 - [Trademarks](org-docs/TRADEMARKS.md)
 
-## Project governance 
+### Project governance 
 
  The folder [project-docs](project-docs) provides a template for individual project governance, subject to the policies and oversight of the larger organization. The MVG suggests to use these as templates for each Physiopy 'project' (probably a repository, but could be a collection of repositories). **This project governance implementation is a work in progress.**
